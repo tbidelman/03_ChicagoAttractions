@@ -1,0 +1,33 @@
+Chicago Attractions Quiz!
+
+
+This project folder contains the skeleton of a website about Chicago's
+Tourist Attractions.  I have included 3 pages describing some popular
+attractions (Art Institutue, Field Museum, and Millenium Park).  Your
+task is to build out the home page for this website (index.html).
+Some structure for the home page has been provided for you.  Use
+example-home-page.jpg as reference.
+
+Your homepage should include:
+
+ - A navigation bar
+     * Use the <nav> tags and <a> tags to create links to every page in the project
+ - A header w/ a title and banner image
+     * This does NOT use <head> or <title> tags
+     * Use chicago-skyline.jpg for the banner image
+ - A 'City of Chicago' section with a brief description of the city
+     * http://www.tripadvisor.com/Tourism-g35805-Chicago_Illinois-Vacations.html
+ - A 'Things to do' section which includes links to each attraction's individual page
+     * Use the thumbnail images from the 'img' folder here
+ - A footer citing tripadvisor.com (similar to the individual attraction pages)
+
+
+HINTS
+ - Use the <nav> <header> <section> and <footer> tags to separate your content into groups.
+ - Use relative links when creating both link and image tags
+
+
+BONUS
+ - Add your navigation bar to the web pages for each individual attraction
+ - Make the images on the homepage into links that take you to the individual attraction's page
+ - Upload to Github
